@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+      <class name="quickacadamy.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="RestAPISignup()[pri:0, instance:quickacadamy.Mavenjava.RestAPITest@4232c52b]" name="RestAPISignup" duration-ms="1" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPISignup -->
+        <test-method status="PASS" signature="RestAPIlogin()[pri:0, instance:quickacadamy.Mavenjava.RestAPITest@4232c52b]" name="RestAPIlogin" duration-ms="0" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIlogin -->
+      </class> <!-- quickacadamy.Mavenjava.RestAPITest -->
+      <class name="quickacadamy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="AppiumSignup()[pri:0, instance:quickacadamy.Mavenjava.AppiumTest@27a8c74e]" name="AppiumSignup" duration-ms="7" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumSignup -->
+        <test-method status="PASS" signature="Appiumlogin()[pri:0, instance:quickacadamy.Mavenjava.AppiumTest@27a8c74e]" name="Appiumlogin" duration-ms="1" started-at="2021-12-17T19:43:24 IST" finished-at="2021-12-17T19:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumlogin -->
+      </class> <!-- quickacadamy.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
