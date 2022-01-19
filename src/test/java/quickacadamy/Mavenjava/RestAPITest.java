@@ -18,6 +18,12 @@ public class RestAPITest {
 	}
 	
 	@Test
+	public void addY()
+	{
+		System.out.println("This is added by Y person");
+	}
+	
+	@Test
 	public void RestAPISignup()
 	{
 		System.out.println("RestAPI login");
