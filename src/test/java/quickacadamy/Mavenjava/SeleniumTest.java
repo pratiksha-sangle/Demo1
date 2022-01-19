@@ -18,5 +18,12 @@ public class SeleniumTest {
 		System.out.println("Selenium login");
 	}
 	
+	@Test
+	public void add1()
+	{
+		System.out.println("This is Test1");
+		System.out.println("This is Test2");
+	}
+	
 
 }

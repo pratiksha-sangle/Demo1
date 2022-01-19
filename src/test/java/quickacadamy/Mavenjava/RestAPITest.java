@@ -14,7 +14,14 @@ public class RestAPITest {
 		System.out.println("RestAPI login5");
 		System.out.println("RestAPI login6");
 		System.out.println("RestAPI login7");
-		
+			
+	}
+	
+	@Test
+	public void add()
+	{
+		System.out.println("This is Test1");
+		System.out.println("This is Test2");
 	}
 	
 	@Test
