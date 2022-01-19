@@ -8,6 +8,8 @@ public class SeleniumTest {
 	public void seleniumlogin()
 	{
 		System.out.println("Selenium login");
+		System.out.println("Selenium signup");
+		
 	}
 	
 	@Test
