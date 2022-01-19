@@ -19,6 +19,12 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void test()
+	{
+		System.out.println("Selenium test");
+	}
+	
+	@Test
 	public void add1()
 	{
 		System.out.println("This is Test1");
